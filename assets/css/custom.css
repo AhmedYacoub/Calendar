@@ -1,0 +1,56 @@
+.side_bar {
+    border-right: 1px solid #ccc;
+}
+.right-side {
+    padding-left: 30px;
+}
+.pageBody{
+    margin: 20px 0 !important;
+}
+
+#register-form {
+    max-width: 60% !important;
+    margin: auto;
+}
+
+div.footer {
+    padding: 20px;
+}
+
+.list-items {
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+  list-style-type: none;
+}
+
+.time {
+  font-size: 11px;
+  color: grey;
+  float: right;
+}
+
+#add-list {
+  max-width: 60%;
+  margin: auto;
+}
+
+textarea {
+  resize: none;
+}
+
+#actionbutton {
+  width: 100px !important;
+  margin: 5px;
+}
+/*.carousel-inner{
+  width: 120%;
+  margin-left: -10%;
+}
+
+@media (min-width: 768px){
+  .carousel-inner{
+    width: 100%;
+    margin: 0;
+  }
+}
+carousel-inner > .item > a > img {max-width:200%} */
